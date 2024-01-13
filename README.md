@@ -5,7 +5,7 @@ A text-editor for those on the go!
 https://brainy-text-c4efc3bd20c9.herokuapp.com/
 
 ## Screenshot
-
+<img width="1440" alt="image" src="https://github.com/KianaEarly/brainy-text/assets/140658147/e33f163e-585c-405e-a85e-637bb3abdc7a">
         
 ## About the Author
 name: Kiana Early
