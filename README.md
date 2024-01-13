@@ -2,6 +2,10 @@
         
 ## Description 
 A text-editor for those on the go!
+https://brainy-text-c4efc3bd20c9.herokuapp.com/
+
+## Screenshot
+
         
 ## About the Author
 name: Kiana Early
@@ -23,7 +27,7 @@ npm i
 node index
         
 ### License
-![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg) 
+![GitHub license](https://img.shields.io/badge/license-javascript-blue.svg) 
 > For more information about Licenses please see:  https://choosealicense.com/
         
 ### Contributing
